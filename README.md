@@ -9,5 +9,6 @@ This is a Python project of the classic game "Hangman". The word to guess is rep
 
 ![Code-2](https://user-images.githubusercontent.com/46643368/83323782-a2417800-a27e-11ea-816e-943ec1cab928.png)
 
+## Output
 
 ![Output](https://user-images.githubusercontent.com/46643368/83323788-abcae000-a27e-11ea-8af6-90051cbda0c1.png)
